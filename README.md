@@ -95,8 +95,6 @@ I take pride in my **Black Hat** identity, living by the creed of hackers who re
 - **RATs** (various) | **Gnome Security** | **Veil** | **Sleuth Kit**
 - **Cuckoo** | **API Monitor** | **Process Explorer** | **Port Scanner**
 
-
-
 ---
 
 ## 🧠 Philosophy:
@@ -119,3 +117,13 @@ I work strictly within legal boundaries, leveraging my skills for **ethical hack
 ---
 
 🖥️ **If you code, leave no trace. If you hack, leave no footprint.**
+
+---
+
+### 🕵️‍♂️ Stats & Achievements
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPYDIRBYTE&show_icons=true&hide_border=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPYDIRBYTE&layout=compact&theme=radical)
+
+### 🔥 Recent Activity
+<!--START_SECTION:activity-->
+<!--END_SECTION:activity-->
