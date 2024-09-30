@@ -107,7 +107,7 @@ Since **2011**, I have walked the path of the **Black Hat**, always staying one 
 ## 🕸️ Get in Touch (Anonymously):
 - **PGP Key**: Available on request 🔐
 - **Session**: [057a7048a678a45bc767c6b4c43b9a20b93c5d4026082ab549bc477eeb093b4119]
-- **Email**: [spydir@fbi.systems](mailto:spydir@fbi.systems)
+- **Email**: [spydirbyte@fbi.systems](mailto:spydirbyte@fbi.systems)
 
 ---
 
