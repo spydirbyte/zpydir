@@ -121,8 +121,8 @@ I work strictly within legal boundaries, leveraging my skills for **ethical hack
 ---
 
 ### 🕵️‍♂️ Stats & Achievements
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=SPYDIRBYTE&show_icons=true&hide_border=true&count_private=true&theme=radical)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SPYDIRBYTE&layout=compact&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zpydir&show_icons=true&hide_border=true&count_private=true&theme=radical)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zpydir&layout=compact&theme=radical)
 
 ### 🔥 Recent Activity
 <!--START_SECTION:activity-->
