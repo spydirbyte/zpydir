@@ -2,7 +2,7 @@
 
 ### 🌐 ABOUT ME 🕵️‍♂️
 
-I am **SPYDIRBYTE**, a seasoned hacker who has been deeply rooted in the **Hacking Community since 2011**. The name is not just a tag but a representation of my two greatest passions — **SPY**ing on the digital web and weaving complex **BYTE**-based malware that operates like a spider in the dark corners of the net. My alias captures the essence of power, control, and domination over systems, networks, and data.
+I am **SPYDIRBYTE**, a seasoned hacker who has been deeply rooted in the **Hacking Community since 2009**. The name is not just a tag but a representation of my two greatest passions — **SPY**ing on the digital web and weaving complex **BYTE**-based malware that operates like a spider in the dark corners of the net. My alias captures the essence of power, control, and domination over systems, networks, and data.
 
 For over a decade, I have infiltrated countless systems, written malware, constructed botnets, and exploited vulnerabilities to bring down infrastructures. My mission has always been to expose what needs to be exposed and challenge the systems that seek to hide the truth. 
 
@@ -100,7 +100,7 @@ I take pride in my **Black Hat** identity, living by the creed of hackers who re
 ## 🧠 Philosophy:
 > "In this digital world, I am both the predator and the prey. I create the web, and I am the spider that waits." — **SPYDIRBYTE**
 
-Since **2011**, I have walked the path of the **Black Hat**, always staying one step ahead of the game. As the **founder of VendettaMafia**, I lead with the belief that knowledge is power and control over systems is the key to true freedom. Mastery of multiple programming languages and offensive security techniques allows me to manipulate systems and data with surgical precision. I am the force behind the keyboard, spreading chaos while uncovering the dark truths that are hidden from the public.
+Since **2009**, I have walked the path of the **Black Hat**, always staying one step ahead of the game. As the **founder of VendettaMafia**, I lead with the belief that knowledge is power and control over systems is the key to true freedom. Mastery of multiple programming languages and offensive security techniques allows me to manipulate systems and data with surgical precision. I am the force behind the keyboard, spreading chaos while uncovering the dark truths that are hidden from the public.
 
 ---
 
