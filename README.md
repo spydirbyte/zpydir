@@ -1,15 +1,5 @@
 # 💻 SPYDIRBYTE 👾 | SPY DIRECTORY BYTE
 
-### 🌐 ABOUT ME 🕵️‍♂️
-
-I am **SPYDIRBYTE**, a seasoned hacker who has been deeply rooted in the **Hacking Community since 2009**. The name is not just a tag but a representation of my two greatest passions — **SPY**ing on the digital web and weaving complex **BYTE**-based malware that operates like a spider in the dark corners of the net. My alias captures the essence of power, control, and domination over systems, networks, and data.
-
-For over a decade, I have infiltrated countless systems, written malware, constructed botnets, and exploited vulnerabilities to bring down infrastructures. My mission has always been to expose what needs to be exposed and challenge the systems that seek to hide the truth. 
-
-As the **founder of VendettaMafia**, I move within the shadows of the **Anonymous Movement**, dedicated to disrupting the establishment and exposing the truths buried beneath layers of falsehood. My expertise is not just in penetration testing but in creating **self-replicating cyber armies** that can take down adversaries and break security protocols.
-
-I take pride in my **Black Hat** identity, living by the creed of hackers who refuse to conform. My toolset is extensive, my reach is global, and my name — **SPYDIRBYTE** — is a signature of digital chaos and unparalleled control.
-
 ---
 
 ## 🛠️ Tech Stack & Expertise:
